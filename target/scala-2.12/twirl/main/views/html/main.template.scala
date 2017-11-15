@@ -47,8 +47,8 @@ Seq[Any](format.raw/*1.33*/("""
             </div>
             <div id="Navigation">
                 <ul>
-                    <li><a href=""""),_display_(/*18.35*/routes/*18.41*/.Application.index()),format.raw/*18.61*/("""" class="home">Home</a></li>
-                    <li><a href="about" class="about">About Us</a></li>
+                    <li><a href=""""),_display_(/*18.35*/routes/*18.41*/.HomeController.index()),format.raw/*18.64*/("""" class="home">Home</a></li>
+                    <li><a href=""""),_display_(/*19.35*/routes/*19.41*/.HomeController.about()),format.raw/*19.64*/("""" class="about">About Us</a></li>
                     <li><a href="services" class="services">Services</a></li>
                     <li><a href="clients" class="clients">Clients</a></li>
                     <li><a href="contact" class="contact">Contact Us</a></li>
@@ -81,11 +81,11 @@ Seq[Any](format.raw/*1.33*/("""
 
               /*
                   -- GENERATED --
-                  DATE: Wed Nov 15 10:37:11 GMT 2017
+                  DATE: Wed Nov 15 10:47:06 GMT 2017
                   SOURCE: /media/sf_D_DRIVE/itt/wmdd1_ft_2017/WMDD12017CoreDesign/app/views/main.scala.html
-                  HASH: 4a1d094a94ba967c538a5fdee6ed7564d9adc9e1
-                  MATRIX: 952->1|1078->32|1105->33|1168->70|1194->76|1264->120|1290->126|1393->203|1407->209|1469->250|1836->590|1851->596|1892->616|2340->1037|2368->1044|2409->1057
-                  LINES: 28->1|33->1|34->2|35->3|35->3|37->5|37->5|38->6|38->6|38->6|50->18|50->18|50->18|58->26|58->26|59->27
+                  HASH: c4658f715ef51e381606ab84c665af0b4430c028
+                  MATRIX: 952->1|1078->32|1105->33|1168->70|1194->76|1264->120|1290->126|1393->203|1407->209|1469->250|1836->590|1851->596|1895->619|1985->682|2000->688|2044->711|2425->1065|2453->1072|2494->1085
+                  LINES: 28->1|33->1|34->2|35->3|35->3|37->5|37->5|38->6|38->6|38->6|50->18|50->18|50->18|51->19|51->19|51->19|58->26|58->26|59->27
                   -- GENERATED --
               */
           

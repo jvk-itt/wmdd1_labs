@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/media/sf_D_DRIVE/itt/wmdd1_ft_2017/WMDD12017CoreDesign/conf/application.conf,/media/sf_D_DRIVE/itt/wmdd1_ft_2017/WMDD12017CoreDesign/target/scala-2.12/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/media/sf_D_DRIVE/itt/wmdd1_ft_2017/WMDD12017CoreDesign/conf/logback.xml,/media/sf_D_DRIVE/itt/wmdd1_ft_2017/WMDD12017CoreDesign/target/scala-2.12/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/media/sf_D_DRIVE/itt/wmdd1_ft_2017/WMDD12017CoreDesign/conf/routes,/media/sf_D_DRIVE/itt/wmdd1_ft_2017/WMDD12017CoreDesign/target/scala-2.12/classes/routes)[0m
