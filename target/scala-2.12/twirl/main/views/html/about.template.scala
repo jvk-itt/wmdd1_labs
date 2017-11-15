@@ -55,7 +55,7 @@ Seq[Any](_display_(/*1.2*/main("About")/*1.15*/ {_display_(Seq[Any](format.raw/*
 
               /*
                   -- GENERATED --
-                  DATE: Fri Nov 10 16:59:32 GMT 2017
+                  DATE: Wed Nov 15 10:37:11 GMT 2017
                   SOURCE: /media/sf_D_DRIVE/itt/wmdd1_ft_2017/WMDD12017CoreDesign/app/views/about.scala.html
                   HASH: 6bb3d1b2db00341752fddf98c12a80cc10103225
                   MATRIX: 1030->1|1051->14|1090->16|1119->19|1309->180

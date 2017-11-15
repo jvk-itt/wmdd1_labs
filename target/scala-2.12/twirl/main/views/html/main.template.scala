@@ -35,8 +35,7 @@ Seq[Any](format.raw/*1.33*/("""
 <html lang="en" id=""""),_display_(/*3.22*/pageID),format.raw/*3.28*/("""">
     <head>
         <title>Core Design - """),_display_(/*5.31*/pageID),format.raw/*5.37*/("""</title>
-        <lik rel="stylesheet" type="text/css" media="screen" 
-        href=""""),_display_(/*7.16*/routes/*7.22*/.Assets.versioned("stylesheets/main.css")),format.raw/*7.63*/("""">
+        <lik rel="stylesheet" type="text/css" media="screen" href=""""),_display_(/*6.69*/routes/*6.75*/.Assets.versioned("stylesheets/main.css")),format.raw/*6.116*/("""">
     </head>
     <body>
         <div id="Container">
@@ -48,7 +47,7 @@ Seq[Any](format.raw/*1.33*/("""
             </div>
             <div id="Navigation">
                 <ul>
-                    <li><a href="/" class="home">Home</a></li>
+                    <li><a href=""""),_display_(/*18.35*/routes/*18.41*/.Application.index()),format.raw/*18.61*/("""" class="home">Home</a></li>
                     <li><a href="about" class="about">About Us</a></li>
                     <li><a href="services" class="services">Services</a></li>
                     <li><a href="clients" class="clients">Clients</a></li>
@@ -56,8 +55,8 @@ Seq[Any](format.raw/*1.33*/("""
                 </ul>
             </div>
             <div id="Content">
-                """),_display_(/*27.18*/content),format.raw/*27.25*/("""
-            """),format.raw/*28.13*/("""</div>
+                """),_display_(/*26.18*/content),format.raw/*26.25*/("""
+            """),format.raw/*27.13*/("""</div>
             <div id="Footer">
                 <h6>
                     <em>Copyright &copy; 2015 Core Design</em>
@@ -82,11 +81,11 @@ Seq[Any](format.raw/*1.33*/("""
 
               /*
                   -- GENERATED --
-                  DATE: Fri Nov 10 17:08:44 GMT 2017
+                  DATE: Wed Nov 15 10:37:11 GMT 2017
                   SOURCE: /media/sf_D_DRIVE/itt/wmdd1_ft_2017/WMDD12017CoreDesign/app/views/main.scala.html
-                  HASH: a4712a928c448eb34f369dd8f2a88d73c531f85d
-                  MATRIX: 952->1|1078->32|1105->33|1168->70|1194->76|1264->120|1290->126|1402->212|1416->218|1477->259|2265->1020|2293->1027|2334->1040
-                  LINES: 28->1|33->1|34->2|35->3|35->3|37->5|37->5|39->7|39->7|39->7|59->27|59->27|60->28
+                  HASH: 4a1d094a94ba967c538a5fdee6ed7564d9adc9e1
+                  MATRIX: 952->1|1078->32|1105->33|1168->70|1194->76|1264->120|1290->126|1393->203|1407->209|1469->250|1836->590|1851->596|1892->616|2340->1037|2368->1044|2409->1057
+                  LINES: 28->1|33->1|34->2|35->3|35->3|37->5|37->5|38->6|38->6|38->6|50->18|50->18|50->18|58->26|58->26|59->27
                   -- GENERATED --
               */
           

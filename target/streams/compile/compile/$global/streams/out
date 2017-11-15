@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/media/sf_D_DRIVE/itt/wmdd1_ft_2017/WMDD12017CoreDesign/app/views/main.scala.html:18:42: value Application is not a member of object controllers.routes[0m
+[0m[[0m[31merror[0m] [0m[0m                    <li><a href="@routes.Application.index()" class="home">Home</a></li>[0m
+[0m[[0m[31merror[0m] [0m[0m                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

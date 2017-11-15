@@ -3,8 +3,7 @@
 <html lang="en" id="@pageID">
     <head>
         <title>Core Design - @pageID</title>
-        <lik rel="stylesheet" type="text/css" media="screen" 
-        href="@routes.Assets.versioned("stylesheets/main.css")">
+        <lik rel="stylesheet" type="text/css" media="screen" href="@routes.Assets.versioned("stylesheets/main.css")">
     </head>
     <body>
         <div id="Container">
@@ -16,7 +15,7 @@
             </div>
             <div id="Navigation">
                 <ul>
-                    <li><a href="/" class="home">Home</a></li>
+                    <li><a href="@routes.Application.index()" class="home">Home</a></li>
                     <li><a href="about" class="about">About Us</a></li>
                     <li><a href="services" class="services">Services</a></li>
                     <li><a href="clients" class="clients">Clients</a></li>

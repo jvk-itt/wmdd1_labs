@@ -1,4 +1,4 @@
-name := """play-java-seed"""
+name := """WMDD12017CoreDesign"""
 organization := "com.example"
 
 version := "1.0-SNAPSHOT"
