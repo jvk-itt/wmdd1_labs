@@ -48,7 +48,7 @@ Seq[Any](format.raw/*1.33*/("""
             </div>
             <div id="Navigation">
                 <ul>
-                    <li><a href="index" class="home">Home</a></li>
+                    <li><a href="/" class="home">Home</a></li>
                     <li><a href="about" class="about">About Us</a></li>
                     <li><a href="services" class="services">Services</a></li>
                     <li><a href="clients" class="clients">Clients</a></li>
@@ -82,10 +82,10 @@ Seq[Any](format.raw/*1.33*/("""
 
               /*
                   -- GENERATED --
-                  DATE: Fri Nov 10 16:59:33 GMT 2017
+                  DATE: Fri Nov 10 17:08:44 GMT 2017
                   SOURCE: /media/sf_D_DRIVE/itt/wmdd1_ft_2017/WMDD12017CoreDesign/app/views/main.scala.html
-                  HASH: 954173e9ee3f37503f596b8da68de86ebee45e87
-                  MATRIX: 952->1|1078->32|1105->33|1168->70|1194->76|1264->120|1290->126|1402->212|1416->218|1477->259|2269->1024|2297->1031|2338->1044
+                  HASH: a4712a928c448eb34f369dd8f2a88d73c531f85d
+                  MATRIX: 952->1|1078->32|1105->33|1168->70|1194->76|1264->120|1290->126|1402->212|1416->218|1477->259|2265->1020|2293->1027|2334->1040
                   LINES: 28->1|33->1|34->2|35->3|35->3|37->5|37->5|39->7|39->7|39->7|59->27|59->27|60->28
                   -- GENERATED --
               */
